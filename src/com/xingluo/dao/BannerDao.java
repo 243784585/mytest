@@ -15,5 +15,6 @@ public class BannerDao {
         Calendar cal = Calendar.getInstance();
         cal.setTime(new Date(14582652721000l));
         System.out.println(cal.get(Calendar.SATURDAY));
+        Math.abs(-1);
     }
 }
